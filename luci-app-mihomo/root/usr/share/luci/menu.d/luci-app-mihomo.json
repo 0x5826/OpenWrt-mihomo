@@ -1,6 +1,7 @@
 {
     "admin/services/mihomo": {
         "title": "MihomoTProxy",
+        "order": 11,
         "action": {
             "type": "firstchild"
         },
