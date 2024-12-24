@@ -385,7 +385,7 @@ msgstr "为内存受限设备优化的加载器"
 #: applications/luci-app-mihomo/htdocs/luci-static/resources/view/mihomo/app.js:39
 #: applications/luci-app-mihomo/root/usr/share/luci/menu.d/luci-app-mihomo.json:3
 msgid "MihomoTProxy"
-msgstr ""
+msgstr "MihomoProxy"
 
 #: applications/luci-app-mihomo/htdocs/luci-static/resources/view/mihomo/mixin.js:96
 msgid "Mixed Port"
